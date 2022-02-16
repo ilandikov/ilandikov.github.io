@@ -2,9 +2,7 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-    <!--
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-    -->
+    <!--<h2 class="footer-heading">{{ site.title | escape }}</h2>-->
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -15,12 +13,10 @@
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
-            </li>
-            <!--
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-            -->
+          </li>
+          <!--{%- if site.email -%}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}-->
         </ul>
       </div>
 
@@ -36,9 +32,7 @@
           {%- if site.linkedin_username -%}<li><a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ site.linkedin_username| escape }}</span></a></li>{%- endif -%}
           {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a></li>{%- endif -%}
         </ul>
-        <!--
-        <p>{{- site.description | escape -}}</p>
-        -->
+        <!--<p>{{- site.description | escape -}}</p>-->
       </div>
     </div>
 
