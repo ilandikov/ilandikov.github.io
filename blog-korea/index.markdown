@@ -1,9 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: "Корейский полдень"
 category: korea
 ---
-Хавчик съедобный и не очень
+Я провел в Корее почти 5 лет, за которые успел очень многое, отдельно об этом в посте про итоги.
+
+Мне очень понравилась Корея, очень понравилось там жить, вкушать местную еду и общаться с корейцами.
+
+Мои тексты и фотографии позволяют мне делиться моей Кореей. Именно для этого и существует этот раздел.
