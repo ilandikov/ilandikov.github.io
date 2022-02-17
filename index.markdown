@@ -4,6 +4,7 @@
 
 layout: home
 title: "Обо мне"
+cover: /assets/images/IMG_1503.jpg
 ---
 
 Привет! Я диджей и танцор танго, пишу о своем опыте и пути.

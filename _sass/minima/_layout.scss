@@ -216,6 +216,12 @@
   margin-bottom: $spacing-unit;
 }
 
+.post-header-cover {
+      width: 100%;
+      height: 150px;
+      object-fit: cover;
+}
+
 .post-title {
   @include relative-font-size(2.625);
   letter-spacing: -1px;

@@ -3,6 +3,10 @@ layout: default
 ---
 
 <div class="home">
+  {%- if page.cover -%}
+    <img src="{{- page.cover | relative_url -}}" alt="" class="post-header-cover">
+  {%- endif -%}
+
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
