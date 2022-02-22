@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home-blog
 title: "Корейский полдень"
 category: korea
 ---
