@@ -21,4 +21,4 @@ category: tango
 
 Будте классными, будьте гибкими, увидимся завтра в Б2!
 
-![](/blog-tango/images/2022-01-31-pismo-zajdavshihsya.jpg)
+![](/tango/images/2022-01-31-pismo-zajdavshihsya.jpg)

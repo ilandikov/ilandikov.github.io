@@ -18,4 +18,4 @@ category: tango
 
 Курагу купил в магазине около милонги, там тоже приятные люди, но по-другому.
 
-![](/blog-tango/images/IMG_2692.jpg)
+![](/tango/images/IMG_2692.jpg)

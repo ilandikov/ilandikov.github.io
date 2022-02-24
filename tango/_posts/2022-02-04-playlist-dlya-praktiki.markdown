@@ -21,4 +21,4 @@ category: tango
 
 Всем хорошей практики =)
 
-![](/blog-tango/images/IMG_7994.jpg)
+![](/tango/images/IMG_7994.jpg)

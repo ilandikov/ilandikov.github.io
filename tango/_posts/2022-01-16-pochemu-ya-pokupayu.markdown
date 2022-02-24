@@ -33,4 +33,4 @@ category: tango
 
 Танцуйте под музыку хорошего качества, пользуйтесь настоящими программами!
 
-![](/blog-tango/images/IMG_9980.jpg)
+![](/tango/images/IMG_9980.jpg)

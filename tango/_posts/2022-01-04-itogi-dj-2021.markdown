@@ -25,4 +25,4 @@ category: tango
 
 Увидимся в 2022 на танцполе!
 
-![](/blog-tango/images/IMG_2472.jpg)
+![](/tango/images/IMG_2472.jpg)

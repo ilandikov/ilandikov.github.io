@@ -11,6 +11,6 @@ category: tango
 
 Еще успел немного попутешествовать, но это уже скорее приятное дополнение.
 
-![](/blog-tango/images/IMG_9863.jpg)
-![](/blog-tango/images/IMG_9860.jpg)
-![](/blog-tango/images/IMG_9870.jpg)
+![](/tango/images/IMG_9863.jpg)
+![](/tango/images/IMG_9860.jpg)
+![](/tango/images/IMG_9870.jpg)

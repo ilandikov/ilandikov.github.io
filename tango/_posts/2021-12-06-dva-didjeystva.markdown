@@ -31,4 +31,4 @@ category: tango
 
 Огромное спасибо организаторам за приглашения, всем танцующим за снисходительность =)
 
-![](/blog-tango/images/2021-12-06-dva-didjeystva.jpg)
+![](/tango/images/2021-12-06-dva-didjeystva.jpg)

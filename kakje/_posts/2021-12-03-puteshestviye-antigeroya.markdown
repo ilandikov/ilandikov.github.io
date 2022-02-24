@@ -19,4 +19,4 @@ category: kakje
 
 Лена! Спасибо тебе от всех нас =Р
 
-![](/blog-kakje/images/2021-12-03-puteshestviye-antigeroya.jpg)
+![](/kakje/images/2021-12-03-puteshestviye-antigeroya.jpg)
