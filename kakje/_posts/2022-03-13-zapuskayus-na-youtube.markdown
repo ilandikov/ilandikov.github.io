@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Запускаюсь на ютубе"
+date:   2022-03-13
+category: kakje
+---
+
+Мне не знаком человек, которому последние события не спутали планы, и я не исключение. 22 февраля вместе с Sergey Lamzin записали интервью про первые 180 дней и обозначили планы на следующие 180 дней в Москве.<!--more--> Первые 180 уже никуда не денутся, а вот последующие, надеюсь, все же случатся, так что я выкладываю интервью в качестве пожелания на будущее.
+
+Это пилотный выпуск на ютубе, посмотрим, куда меня это приведет =)
+
+Если что-то интересно и стоит раскрыть полнее - пишите! И очень прошу подписаться на канал, чтобы я мог сделать его лучше ˆˆ
+
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ojoQYoOVNlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
