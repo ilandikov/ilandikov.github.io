@@ -31,7 +31,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  ilandikov
-telegram_username:  tangorecuerdo
+telegram_username:  etoilyas
 linkedin_username: ilandikov
 facebook_username: ilandikov
 instagram_username: etoilyas
