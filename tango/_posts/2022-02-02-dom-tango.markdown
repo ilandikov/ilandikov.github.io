@@ -17,6 +17,4 @@ category: tango
 
 А последнюю танду мы зажгли с Сергеем Шпаковским! Кстати, он захватил Калашный по четвергам и делает там милонгу, надо бы туда зайти и разведать.
 
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/e1_zOjOUbyI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+{% include youtube.html link="https://www.youtube.com/embed/e1_zOjOUbyI" %}

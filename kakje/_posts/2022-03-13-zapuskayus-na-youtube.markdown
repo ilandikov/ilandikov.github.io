@@ -11,6 +11,4 @@ category: kakje
 
 Если что-то интересно и стоит раскрыть полнее - пишите! И очень прошу подписаться на канал, чтобы я мог сделать его лучше ˆˆ
 
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ojoQYoOVNlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+{% include youtube.html link="https://www.youtube.com/embed/ojoQYoOVNlk" %}
