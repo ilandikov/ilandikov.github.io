@@ -54,16 +54,19 @@ defaults:
       path: "kakje"
     values:
       category: kakje
+      category_label: "Как же круто жить"
   -
     scope:
       path: "korea"
     values:
       category: korea
+      category_label: "Корейский полдень"
   -
     scope:
       path: "tango"
     values:
       category: tango
+      category_label: "Танго"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

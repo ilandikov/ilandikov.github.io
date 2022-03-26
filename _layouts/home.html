@@ -19,12 +19,7 @@ layout: default
       {%- for post in site.posts limit:5 -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        {%- for item in site.data.category_list -%}
-          {%- if item.category == post.category -%}
-            <span class="post-meta"> {{ item.name }}</span>
-          {%- endif -%}
-        {%- endfor -%}
+        <span class="post-meta">{{ post.date | date: date_format }} | {{ post.category_label }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
