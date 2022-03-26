@@ -48,6 +48,23 @@ minima:
 show_excerpts: true
 excerpt_separator: <!--more-->
 
+defaults:
+  -
+    scope:
+      path: "kakje"
+    values:
+      category: kakje
+  -
+    scope:
+      path: "korea"
+    values:
+      category: korea
+  -
+    scope:
+      path: "tango"
+    values:
+      category: tango
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

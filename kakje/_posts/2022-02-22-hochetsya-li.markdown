@@ -2,7 +2,6 @@
 layout: post
 title:  "Хочется ли жить так же?"
 date:   2022-02-22
-category: kakje
 published: false
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Без названия"
 date:   2022-02-24
-category: kakje
 published: false
 ---
 

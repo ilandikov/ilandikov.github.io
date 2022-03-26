@@ -2,7 +2,6 @@
 layout: post
 title:  "А я-то что?"
 date:   2022-02-24
-category: kakje
 published: false
 ---
 
