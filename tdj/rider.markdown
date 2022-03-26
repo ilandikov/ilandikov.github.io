@@ -2,7 +2,6 @@
 layout: post
 title:  "Вашу милонгу запомнят и придут еще"
 date:   today
-category: tango
 permalink: /tdj-rider
 ---
 <!--more-->

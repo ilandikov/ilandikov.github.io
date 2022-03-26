@@ -2,7 +2,6 @@
 layout: post
 title:  "Расписание диджейских сетов"
 date:   today
-category: tango
 permalink: /tdj
 ---
 <!--more-->
