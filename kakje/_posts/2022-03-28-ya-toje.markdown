@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Я тоже под санкциями"
+date:   2022-03-28
+---
+
+Когда я читаю новости про санкции, они кажутся такими далекими, ориентированными на бизнес, госдолг и каких-то далеких от меня людей, но тут внезапно прилетело, причем в очень интересной форме, которую я хочу разобрать и проанализировать. Речь исключительно про формализм вопроса и его резонанс стенах моей черепушки.<!--more-->
+
+Дисклеймер: я не понимаю, какие проблемы в XXI веке можно решать силовым путем, тем более для страны, которая является наследницей таких умов как Менделеев, Чайковский и Колмогоров, тем более со страной, с которой нас связывает так много.
+
+В феврале я запустил свой сайт, это как минимум просто копилка моих текстов, как максимум - моя цифровая визитка. Когда ты делаешь сайт, то можно/нужно купить доменное имя («адрес» иными словами), стоят такие имена от нескольких долларов в год, продаются регистраторами доменных имен, я нашел дешевый регистратор в Штатах (где он находится по сути разницы вообще никакой), купил себе прекрасное имя, сваял сайт, а в марте получил письмо счастья от регистратора:
+
+> Unfortunately, due to the Russian regime's war crimes and human rights violations in Ukraine, we will no longer be providing services to users registered in Russia. While we sympathize that this war may not affect your own views or opinion on the matter, the fact is, your authoritarian government is committing human rights abuses and engaging in war crimes so this is a policy decision we have made and will stand by.
+<br/><br/>
+If you hold any top-level domains with us, we ask that you transfer them to another provider by March 6, 2022
+
+Через 20 часов (видимо, после шквала сообщений от клиентов) пришло еще одно:
+
+>We would like to make a correction to our policy of terminating services to customers in Russia — announced yesterday.
+<br/><br/>
+Firstly, we will make exceptions for all anti-regime media, protest resources, and any type of websites that are helping to end this war and regime — we will continue to welcome you using our services. Please accept our apologies for any disruption this caused, and we thank you for helping to fight against this tyranny.
+<br/><br/>
+The above also applies if you are no longer a resident of Russia and do not support the regime in any way.
+<br/><br/>
+Extending original termination date
+<br/><br/>
+For those who will still be affected by our decision to terminate services to Russia, we are extending the termination date to three weeks from today. Please make sure you have moved your services to another provider by March 22, 2022.
+<br/><br/>
+If there are legitimate reasons that you may need more time, we will make exceptions if they are deemed reasonable.
+<br/><br/>
+Thank you for your understanding
+<br/><br/>
+We are thankful to everyone who supports Ukraine and the Ukrainian people. Civilians are being killed at this very moment by Russian forces, paid for directly or indirectly by the taxes of Russian citizens. We hope every person in Russia can understand this and recognize the horrible atrocities that are happening right now being committed by the Russian regime.
+
+Я сразу связался с регистратором по почте, мне подтвердили, что сервис перестают предоставлять всем российским **резидентам вне зависимости от гражданства**, например, европейских и украинских граждан-резидентов России тоже отключат. Правда не понятно, почему к резидентам России обращаются со словами «*your government*», ведь иностранные резиденты в выборах не участвуют.
+
+Раз уж мы говорим про расторжении формальных договоров, то они должны опираться на формальные документы, в частности обвинения в «*human rights abuses and engaging in war crimes*» должны ссылаться на документальные решения судов, например, Европейский Суд по Правам Человека или Международный Уголовный Суд (Если я правильно понимаю, какие-то процессы там идут, но они пока не привели к каким-либо формальным результатам).
+
+Прекрасное обещание: «*We will make exceptions for all anti-regime media, protest resources, and any type of websites that are helping to end this war and regime — we will continue to welcome you using our services.*» Не понятно, как, кто и по каким параметрам будет определять, отвечает ли конкретный ресурс этим требованиям. Ну а соответствие материалов ресурса законам РФ, а так же возможные санкции в отношении их авторов вообще никого интересуют.
+
+«*The above also applies if you are no longer a resident of Russia and do not support the regime in any way.*» Еще одна прекрасная фраза, снова не понятно, как именно кто-то здесь может оказывать поддержку (Про налоги ниже). Когда я в чате поддержки попросил объяснить мне, что считается за «*способы поддержки*», мне сказали, что нужно, чтобы «*не было пропаганды*». Жаль, что не указали пропаганды чего, ведь я пропагандирую путешествия, разные культуры и танцы…
+
+Так же я не понял пассажа «*Russian forces, paid for directly or indirectly by the taxes of Russian citizens*». Откуда-то теперь появились «*граждане*», когда раньше мы говорили про «*резидентов*». Ну а говоря о налогах, НДС платят не только резиденты, но и туристы, то есть все иностранные туристы, кто посещал РФ с момента ее основания после распада СССР должны тоже быть отключены? НДС - не единственный налог, если рассмотреть НДФЛ, его платят не все граждане, да и не все резиденты…
+
+Следующим шагом я залез в документацию регистратора и тщательно проверил информацию по нашему соглашению, которое регулирует продажу и поддержку доменного имени. Ни о каких условиях досрочных прекращений со стороны провайдера я упоминания не нашел. Когда я спросил у него, на каких же основаниях со мной расторгают договор, то получил в ответ скопированные абзацы из почты выше, что я интерпретировал как «*ничего не знаем, что ответить, нам сказали вас отключать*».
+
+Отдельно мне сказали, что если я не резидент России, то проблем нет - надо только обновить адрес в профиле и предоставить документы, что я резидент другой страны. В качестве документов попросили предоставить то, чем подтверждают жилье в западных странах - договор аренды или квитанцию об оплате ЖКХ с моим именем. Мне так и не объяснили, почему я теперь должен предоставлять документы резидента другой страны, если когда я писал мой российский адрес в профиле, никаких документов об этом не предоставлял (не просили).
+
+Раз уж вы дочитали до этого момента, держитесь, сейчас будет самое главное: я просто забил мой старый корейский адрес (безо всяких документов), и… От меня отстали…
+
+Я думаю, что эта история наглядно показывает отношение западного бизнеса к происходящему, отчасти структура напоминает нашумевшие протесты BLM в Штатах: сопричастность в формате «все побежали, и я побежал» и декламация важнее реальных действий (которые в данном случае вообще не были продуманы). Отсутствие же этой сопричастности грозит всем известной культурой «отмены», которая, как мы уже видим, проникла и в Европу. Очень жаль, что реальные меры и их действенность заметны меньше, чем демагогия, ведь их принимают те, кто делает это ради себя и своих убеждений и не стремится заявлять об этом публично.
+
+Больше всего в этой ситуации меня волнует, какой эффект подобные «санкции» (тут уж без кавычек никуда) будут иметь на рядового жителя России, и что-то мне подсказывает, что он благодаря им не проникнется любовью и тягой к западным ценностям, скорее наоборот. Понимают ли это те, кто принимает подобные «санкции»? А вдруг понимают?..
