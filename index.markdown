@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Привет! Меня зовут Ильяс =)"
+title: "Привет. Это Ильяс."
 cover: /assets/images/IMG_0144.jpg
 ---
 
