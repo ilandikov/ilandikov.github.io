@@ -8,7 +8,7 @@ permalink: /tdj
 
 ## Россия и СНГ / 2022
 
-6 мая (пт) Casa Latina (Санкт-Петербург)
+6 мая (пт) Casa Latina (Санкт-Петербург)<br />
 2 мая (пн) Festivalito La Vida (Челябинск)
 
 28 апреля (чт) Milonga Sentimental
