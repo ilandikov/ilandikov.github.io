@@ -13,6 +13,8 @@ permalink: /tdj
 
 28 апреля (чт) Milonga Sentimental
 
+![](/tdj/images/2022-2.jpg)
+
 24 марта (чт) Винтаж (Бишкек)<br />
 31 марта (чт) Винтаж (Бишкек)
 
