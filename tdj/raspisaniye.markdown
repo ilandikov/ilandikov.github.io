@@ -11,7 +11,7 @@ permalink: /tdj
 6 мая (пт) Casa Latina (Санкт-Петербург)<br />
 2 мая (пн) Festivalito La Vida (Челябинск)
 
-28 апреля (чт) Milonga Sentimental
+28 апреля (чт) Milonga Sentimental (Москва)
 
 ![](/tdj/images/2022-2.jpg)
 
