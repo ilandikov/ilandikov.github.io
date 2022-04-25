@@ -59,7 +59,9 @@ permalink: /tdj-rider
 
 ## Для сайтов, анонсов и соцсетей {#sayti}
 
-Чтобы твое мероприятиеа собрало больше людей, ты можешь добавить в анонсы ссылку на мой профиль: [TG](https://t.me/etoilyas), [FB](https://facebook.com/ilandikov), [IG](https://instagram.com/etoilyas).
+Чтобы твое мероприятиеа собрало больше людей, ты можешь добавить в анонсы ссылку на мой профиль: [телеграмм-канал](https://t.me/etoilyas), [FB](https://facebook.com/ilandikov)\*, [IG](https://instagram.com/etoilyas)\*.
+
+<span style="color: grey">\* Instagram и Facebook запрещены в РФ</span>
 
 ### Описание от третьего лица
 
