@@ -17,9 +17,7 @@ date:   2019-05-30
 
 Суп плотный благодаря двум очень важным для корейцев ингредиентам: разбитое яйцо, которое «связывает» бульон распавшись на ошметки, и сушеные водоросли ким (김), которые подсаливают блюдо. Это ощущение сложно передать, так что я записал видео.
 
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/zz-TUBT42VQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+{% include youtube.html link="https://www.youtube.com/embed/zz-TUBT42VQ" %}
 
 Кстати, манду здесь можно купить и на вынос, домой, так что их выращивают в промышленных масштабах.
 
