@@ -67,6 +67,13 @@ defaults:
     values:
       category: tango
       category_label: "Танго"
+  -
+    scope:
+      path: "systh"
+    values:
+      category: systh
+      category_label: "Системное мышление"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
