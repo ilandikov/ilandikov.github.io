@@ -8,6 +8,10 @@ permalink: /tdj
 
 ## Россия и СНГ / 2022
 
+26 июня (вс) Sentimental (Нижний Новгород)<br />
+11 июня (сб) Mucho Mas tango weekend (Тула)<br />
+7 июня (вт) Рандеву
+
 6 мая (пт) Casa Latina (Санкт-Петербург)<br />
 2 мая (пн) Festivalito La Vida (Челябинск)
 
