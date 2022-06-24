@@ -8,6 +8,9 @@ permalink: /tdj
 
 ## Россия и СНГ / 2022
 
+30 июля (сб) Hola Amigos Marathon (Нижний Новгород)
+
+30 июня (чт) Sentimental (Москва)<br />
 26 июня (вс) Sentimental (Нижний Новгород)<br />
 11 июня (сб) Mucho Mas v2 Orquestra Tango Festival (Тула)<br />
 7 июня (вт) Рандеву (Москва)
