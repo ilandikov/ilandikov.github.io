@@ -8,7 +8,10 @@ permalink: /tdj
 
 ## Россия и СНГ / 2022
 
-30 июля (сб) Hola Amigos IX Marathon (Нижний Новгород)
+27 августа (сб) VA'MOSCU Festival (Москва)
+
+30 июля (сб) Hola Amigos IX Marathon (Нижний Новгород)<br />
+27 июля (ср) Ronda (Москва)
 
 30 июня (чт) Sentimental (Москва)<br />
 26 июня (вс) Sentimental (Нижний Новгород)<br />
