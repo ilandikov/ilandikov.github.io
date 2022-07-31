@@ -20,3 +20,5 @@ date:   2022-07-30
 Да, кстати, я видос запилил еще =)
 
 {% include youtube.html link="https://www.youtube.com/embed/BDEoiBJmuyM" %}
+
+![](/tango/images/IMG_3265.jpg)
