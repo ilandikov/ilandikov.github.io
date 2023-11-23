@@ -36,6 +36,8 @@ layout: default
 
 И я хочу поделиться танго с Кыргызстаном.
 
+<img src="/assets/images/1679023189_bogatyr-club-p-kirgiz-fon-foni-oboi-23.jpeg" alt="" class="landing-image-100-px" style="object-position: center 44%">
+
 ## Миссия
 
 - связать Кыргызстан с мировым танго-сообществом
