@@ -97,7 +97,7 @@ layout: home
 
 Мир танго ждет тебя.  Цена интенсива - 10.000 сомов
 
-# Приходи на бесплатный открытый урок
+# Мы скоро запустим бесплатные открытые уроки. Оставьте контактнае данные (Whatsapp), чтобы их не пропустить
 
 <p style="text-align: center;"><iframe class="form-iframe embended-form" style="display:none;" id="embended-form-326" src="https://crm.clients24.pro/tangokana/form?id=326" frameborder="0" scrolling="no" width="100%">Your browser does not support frames</iframe></p>
 <link href="https://crm.clients24.pro/css/form.css" rel="stylesheet">
