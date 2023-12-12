@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 # Твой танец ждет только тебя
