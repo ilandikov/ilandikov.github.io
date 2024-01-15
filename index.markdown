@@ -50,17 +50,15 @@ layout: default
 
 Приглашаю тебя познакомиться с танго на бесплатных открытых уроках.
 
-- Даты: 27 и 29 ноября и 1 декабря 2023
+- Даты: 22, 24 и 26 января 2024
 - Время: 20:00 - 21:00
-- Адрес: Ждем вас в 20:00 по адресу Киевская 190, подъезд 2, этаж 2, творческий центр "Шертай"
+- Адрес: Киевская 190, подъезд 2, этаж 2, творческий центр "Шертай"
 - С собой: Чистая сменная обувь и хорошее настроение =)
 - Пара: не обязательна, но желательна
 
 <img src="/assets/images/IMG_0336.jpeg" alt="" class="landing-image-100-px" style="object-position: center 37%">
 
-Открытые уроки проводятся перед началом интенсива.
-
-Ближайший интенсив - с 4 по 29 декабря 2023.
+Сразу после открытых уроков начинается интенсив - с 29 января по 25 февраля 2024.
 
 <img src="/assets/images/IMG_7740.jpeg" alt="" class="landing-image-100-px" style="object-position: center 31%">
 
@@ -72,11 +70,11 @@ layout: default
 - 4 вечеринки (по 4 часа)
 - 1 лекция о культуре и истории танго
 
-Цена интесива - 10.000 сомов. Это всего 250 сомов в час.
+Цена интесива - 14.000 сомов. Это всего 350 сомов в час.
 
 <img src="/assets/images/IMG_0335.jpeg" alt="" class="landing-image-100-px" style="object-position: center 52%">
 
-Интенсив прошли более 20 человек и все научились танцевать на базовом уровне.
+Интенсив прошли более 30 человек и все научились танцевать на базовом уровне.
 
 После интенсива ты будешь уверенным начинающим с уровнем около 6 месяцев и можешь:
 
@@ -87,8 +85,8 @@ layout: default
 
 Но это не далеко все. А еще:
 
-- Откроешь новое хобби
 - Познаешь себя через танец
+- Откроешь новое хобби и стиль жизни
 - Научишься доверять противоположному полу
 
 <img src="/assets/images/IMG_2445.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
@@ -99,9 +97,9 @@ layout: default
 
 # Приходи на бесплатный открытый урок
 
-<p style="text-align: center;"><iframe class="form-iframe embended-form" style="display:none;" id="embended-form-305" src="https://crm.clients24.pro/tangokana/form?id=305" frameborder="0" scrolling="no" width="100%">Your browser does not support frames</iframe></p>
+<p style="text-align: center;"><iframe class="form-iframe embended-form" style="display:none;" id="embended-form-345" src="https://crm.clients24.pro/tangokana/form?id=345" frameborder="0" scrolling="no" width="100%">Your browser does not support frames</iframe></p>
 <link href="https://crm.clients24.pro/css/form.css" rel="stylesheet">
-<script src="https://crm.clients24.pro/tangokana/admin/schedule-noauth/simple-form-script/305"></script>
+<script src="https://crm.clients24.pro/tangokana/admin/schedule-noauth/simple-form-script/345"></script>
 <script>onmessage = function(e){
-document.getElementById('embended-form-305').style.height = (e.data.formSize + 120) + 'px';
+document.getElementById('embended-form-345').style.height = (e.data.formSize + 120) + 'px';
 };</script>
