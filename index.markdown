@@ -22,7 +22,7 @@ layout: default
 
 <img src="/assets/images/IMG_3666.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
 
-<p style="text-align:center"><a style="margin: 5px; backgound-color: black;" href="#embended-form-345">Стать танцором</a></p>
+<div style="display:flex; justify-content:center"><p style="display: inline-block; text-align:center; background-color: black; border-radius: 10px"><a style="margin: 14px; backgound-color: black; color: white; font-size: 24px" href="#embended-form-345">Стать танцором</a></p></div>
 
 ## Кто мы?
 
