@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 vendor
 .idea
+node_modules
+.cache
+public
+**/.DS_Store
