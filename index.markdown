@@ -77,10 +77,10 @@ layout: default
 
 Интенсив прошли более 30 человек и все научились танцевать на базовом уровне.
 
-После интенсива ты будешь уверенным начинающим с уровнем около 6 месяцев и можешь:
+После интенсива ты будешь уверенным начинающим с уровнем около 6 месяцев в обычной школе. Ты сможешь:
 
-- Ходи на вечеринки в Бишкеке (Еженедельно)
-- Продолжай обучение в старшей группе
+- Наслаждаться танго на вечеринках в Бишкеке (Еженедельно)
+- Продолжать обучение в старшей группе по желанию
 
 <img src="/assets/images/IMG_8389.jpeg" alt="" class="landing-image-100-px" style="object-position: center 35%">
 
@@ -88,7 +88,7 @@ layout: default
 
 - Познаешь себя через танец
 - Откроешь новое хобби и стиль жизни
-- Научишься доверять противоположному полу
+- Научишься доверять и общаться с противоположным полом
 
 <img src="/assets/images/IMG_2445.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
 
@@ -96,7 +96,7 @@ layout: default
 
 Мир танго ждет тебя.
 
-# Приходи на бесплатный открытый урок
+## Приходи на бесплатный открытый урок
 
 <p style="text-align: center;"><iframe class="form-iframe embended-form" style="display:none;" id="embended-form-345" src="https://crm.clients24.pro/tangokana/form?id=345" frameborder="0" scrolling="no" width="100%">Your browser does not support frames</iframe></p>
 <link href="https://crm.clients24.pro/css/form.css" rel="stylesheet">
