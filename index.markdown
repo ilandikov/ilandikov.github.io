@@ -24,16 +24,6 @@ layout: default
 
 <div style="display:flex; justify-content:center"><p style="display: inline-block; text-align:center; background-color: black; border-radius: 10px"><a style="margin: 14px; backgound-color: black; color: white; font-size: 24px" href="#embended-form-345">Стать танцором</a></p></div>
 
-## Кто мы?
-
-Мы - сообщество танцоров танго в Бишкеке "Тангокана". Наша миссия:
-
-- связать Кыргызстан с мировым танго-сообществом
-- сделать Кыргызстан центром танго в Центральной Азии
-- развивать танго как интеллектуальный отдых с пользой для тела
-
-<img src="/assets/images/IMG_7862.jpeg" alt="" class="landing-image-100-px" style="object-position: center 30%">
-
 ## Открытые уроки
 
 Приглашаю тебя познакомиться с танго на бесплатных открытых уроках.
@@ -71,15 +61,23 @@ layout: default
 
 <img src="/assets/images/IMG_0335.jpeg" alt="" class="landing-image-100-px" style="object-position: center 52%">
 
-Но это не далеко все. А еще:
+<div style="display:flex; justify-content:center"><p style="display: inline-block; text-align:center; background-color: black; border-radius: 10px"><a style="margin: 14px; backgound-color: black; color: white; font-size: 24px" href="#embended-form-345">Стать танцором</a></p></div>
 
-- Познаешь себя через танец
-- Откроешь новое хобби и стиль жизни
-- Научишься доверять и общаться с противоположным полом
+## Кто мы?
 
-Мир танго ждет тебя. Приходи.
+Мы - сообщество танцоров танго в Бишкеке "Тангокана". Наша миссия:
 
-<img src="/assets/images/IMG_2445.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
+- связать Кыргызстан с мировым танго-сообществом
+- сделать Кыргызстан центром танго в Центральной Азии
+- развивать танго как интеллектуальный отдых с пользой для тела
+
+<img src="/assets/images/IMG_7862.jpeg" alt="" class="landing-image-100-px" style="object-position: center 30%">
+
+Основатель сообщества - Ильяс Ландиков. Днем работает в IT, а вечером - танцор, преподаватель или диджей танго. Его путь танго начался в Марселе, продолжился в Париже, Сеуле и Москве. За 10 лет он объездил 17 стран с помощью танго.
+
+Сегодня Ильяс в Бишкеке, стань танцором международного уровня вместе с ним.
+
+<img src="/assets/images/IMG_0144.jpeg" alt="" class="landing-image-100-px">
 
 <p style="text-align: center;"><iframe class="form-iframe embended-form" style="display:none;" id="embended-form-345" src="https://crm.clients24.pro/tangokana/form?id=345" frameborder="0" scrolling="no" width="100%">Your browser does not support frames</iframe></p>
 <link href="https://crm.clients24.pro/css/form.css" rel="stylesheet">
