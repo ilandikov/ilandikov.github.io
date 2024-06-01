@@ -8,7 +8,7 @@ layout: default
 
 Сколько нужно рукопожатий, чтобы познакомиться с человеком в Кыргызстане? Три. Можно ли так во всем мире? Да, если ты танцуешь танго.
 
-<img src="/assets/images/IMG_9021.jpeg" alt="" class="landing-image-100-px" style="object-position: center 60%">
+<img src="/assets/images/IMG_3666.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
 
 ## Знакомства в любой точке планеты
 
@@ -20,7 +20,7 @@ layout: default
 
 Танго разовьет тебя во многих направлениях. Танцец - это не только движения, но и история, музыка. Прикоснись к культуре мирового масшаба.
 
-<img src="/assets/images/IMG_3666.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
+<img src="/assets/images/IMG_2445.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
 
 <div style="display:flex; justify-content:center"><p style="display: inline-block; text-align:center; background-color: black; border-radius: 10px"><a style="margin: 14px; backgound-color: black; color: white; font-size: 24px" href="#embended-form-345">Стать танцором</a></p></div>
 
