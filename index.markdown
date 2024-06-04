@@ -8,7 +8,7 @@ layout: default
 
 Научись уверенно вести партнершу и стань тем, кто задает тон не только в танцах, но в жизни. Мы поможем излучать уверенность изнутри, а не с помощью внешних атрибутов.
 
-<img src="/assets/images/IMG_9107.jpg" alt="" class="landing-image-150-px" style="object-position: center 73%;">
+<img src="/assets/images/IMG_9107.JPG" alt="" class="landing-image-150-px" style="object-position: center 73%;">
 
 ## Источник молодости и энергии
 
