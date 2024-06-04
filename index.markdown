@@ -4,23 +4,29 @@ layout: default
 
 # Танго - больше, чем танец
 
-## Остановка времени
+## Лидерство на танцполе и в жизни
 
-Танцоры любой комплеции всегда хорошо выглядят. Движущийся человек всегда здоровее и смотрится моложе своего возраста.
+Научись уверенно вести партнершу и стань тем, кто задает тон не только в танцах, но в жизни. Мы поможем излучать уверенность изнутри, а не с помощью внешних атрибутов.
 
-<img src="/assets/images/IMG_2445.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
+<img src="/assets/images/IMG_9107.jpg" alt="" class="landing-image-150-px" style="object-position: center 73%;">
 
-## Знакомства в любой точке планеты
+## Источник молодости и энергии
 
-Сколько нужно рукопожатий, чтобы познакомиться с человеком в Кыргызстане? Три. Можно ли так во всем мире? Да, если ты танцуешь танго. Войди в сообщество планетарного масштаба. Где бы ты ни был, у тебя будут друзья.
+Танцоры любой комплеции всегда хорошо выглядят. Регулярные занятия танцами поддерживают физическую форму и молодость, забудьте про возраст.
 
-<img src="/assets/images/IMG_9706.jpeg" alt="" class="landing-image-100-px" style="object-position: center 38%">
+<img src="/assets/images/youth.jpg" alt="" class="landing-image-150-px" style="object-position: center 76%;">
+
+## Близость и уважение
+
+Танцы позволяют почувствовать близость и уважение к партнеру и противоположному полу. Наш курс поможет вам насладиться моментами общения и взаимопонимания.
+
+<img src="/assets/images/understanding.jpg" alt="" class="landing-image-150-px" style="object-position: center 25%">
 
 ## Интеллектуальное занятие на всю жизнь
 
-Танго разовьет тебя во многих направлениях. Танцец - это не только движения, но и история, музыка. Прикоснись к культуре мирового масшаба.
+Танго развает тебя во многих направлениях. Танец - это и история, музыка. Прикоснись к культуре мирового масшаба.
 
-<img src="/assets/images/IMG_3666.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
+<img src="/assets/images/IMG_3666.jpeg" alt="" class="landing-image-150-px" style="object-position: center 40%">
 
 <div style="display:flex; justify-content:center"><p style="display: inline-block; text-align:center; background-color: black; border-radius: 10px"><a style="margin: 14px; backgound-color: black; color: white; font-size: 24px" href="#embended-form-345">Стать танцором</a></p></div>
 
@@ -36,7 +42,7 @@ layout: default
 
 Сразу после открытых уроков начинается интенсив - с 17 июня по 14 июля.
 
-<img src="/assets/images/IMG_0336.jpeg" alt="" class="landing-image-100-px" style="object-position: center 37%">
+<img src="/assets/images/IMG_0336.jpeg" alt="" class="landing-image-150-px" style="object-position: center 37%">
 
 ## Интенсив
 
@@ -47,7 +53,7 @@ layout: default
 - Наслаждаться танго на вечеринках в Бишкеке и в мире
 - Продолжать обучение в старшей группе по желанию
 
-<img src="/assets/images/IMG_8389.jpeg" alt="" class="landing-image-100-px" style="object-position: center 35%">
+<img src="/assets/images/IMG_8389.jpeg" alt="" class="landing-image-150-px" style="object-position: center 37%">
 
 В интенсив входят:
 
@@ -59,7 +65,7 @@ layout: default
 
 Цена интесива - 14.000 сомов. Это всего 350 сомов в час.
 
-<img src="/assets/images/IMG_0335.jpeg" alt="" class="landing-image-100-px" style="object-position: center 52%">
+<img src="/assets/images/IMG_0335.jpeg" alt="" class="landing-image-150-px" style="object-position: center 52%">
 
 <div style="display:flex; justify-content:center"><p style="display: inline-block; text-align:center; background-color: black; border-radius: 10px"><a style="margin: 14px; backgound-color: black; color: white; font-size: 24px" href="#embended-form-345">Стать танцором</a></p></div>
 
@@ -71,7 +77,7 @@ layout: default
 - сделать Кыргызстан центром танго в Центральной Азии
 - развивать танго как интеллектуальный отдых с пользой для тела
 
-<img src="/assets/images/IMG_7862.jpeg" alt="" class="landing-image-100-px" style="object-position: center 30%">
+<img src="/assets/images/IMG_7862.jpeg" alt="" class="landing-image-150-px" style="object-position: center 22%">
 
 Мы любим пушествия, мы открыты этому миру. Все наши путешествия всегда связаны с танго, ведь это так просто - просто возьми с собой туфли. Посмотри, где мы танцевали на этой планете:
 
@@ -81,7 +87,7 @@ layout: default
 
 Сегодня Ильяс в Бишкеке, стань танцором международного уровня вместе с ним.
 
-<img src="/assets/images/IMG_0144.jpeg" alt="" class="landing-image-100-px">
+<img src="/assets/images/IMG_0144.jpeg" alt="" class="landing-image-150-px"  style="object-position: center 54%">
 
 <p style="text-align: center;"><iframe class="form-iframe embended-form" style="display:none;" id="embended-form-345" src="https://crm.clients24.pro/tangokana/form?id=345" frameborder="0" scrolling="no" width="100%">Your browser does not support frames</iframe></p>
 <link href="https://crm.clients24.pro/css/form.css" rel="stylesheet">
