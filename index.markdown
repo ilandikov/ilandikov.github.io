@@ -4,15 +4,15 @@ layout: default
 
 # Танго - больше, чем танец
 
-## Мир без границ
+## Остановка времени
 
-Сколько нужно рукопожатий, чтобы познакомиться с человеком в Кыргызстане? Три. Можно ли так во всем мире? Да, если ты танцуешь танго.
+Танцоры любой комплеции всегда хорошо выглядят. Движущийся человек всегда здоровее и смотрится моложе своего возраста.
 
-<img src="/assets/images/IMG_3666.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
+<img src="/assets/images/IMG_2445.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
 
 ## Знакомства в любой точке планеты
 
-Войди в сообщество планетарного масштаба. Где бы ты ни был, у тебя будут друзья.
+Сколько нужно рукопожатий, чтобы познакомиться с человеком в Кыргызстане? Три. Можно ли так во всем мире? Да, если ты танцуешь танго. Войди в сообщество планетарного масштаба. Где бы ты ни был, у тебя будут друзья.
 
 <img src="/assets/images/IMG_9706.jpeg" alt="" class="landing-image-100-px" style="object-position: center 38%">
 
@@ -20,7 +20,7 @@ layout: default
 
 Танго разовьет тебя во многих направлениях. Танцец - это не только движения, но и история, музыка. Прикоснись к культуре мирового масшаба.
 
-<img src="/assets/images/IMG_2445.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
+<img src="/assets/images/IMG_3666.jpeg" alt="" class="landing-image-100-px" style="object-position: center 40%">
 
 <div style="display:flex; justify-content:center"><p style="display: inline-block; text-align:center; background-color: black; border-radius: 10px"><a style="margin: 14px; backgound-color: black; color: white; font-size: 24px" href="#embended-form-345">Стать танцором</a></p></div>
 
