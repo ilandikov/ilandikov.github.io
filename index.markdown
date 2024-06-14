@@ -28,7 +28,7 @@ layout: default
 
 <img src="/assets/images/IMG_3666.jpeg" alt="" class="landing-image-150-px" style="object-position: center 40%">
 
-<div style="display:flex; justify-content:center"><p style="display: inline-block; text-align:center; background-color: black; border-radius: 10px"><a style="margin: 14px; backgound-color: black; color: white; font-size: 24px" href="#embended-form-345">Стать танцором</a></p></div>
+<div style="display:flex; justify-content:center"><p style="display: inline-block; text-align:center; background-color: black; border-radius: 10px"><a style="margin: 14px; backgound-color: black; color: white; font-size: 24px" href="#embended-form-326">Стать танцором</a></p></div>
 
 ## Открытые уроки
 
@@ -67,7 +67,7 @@ layout: default
 
 <img src="/assets/images/IMG_0335.jpeg" alt="" class="landing-image-150-px" style="object-position: center 52%">
 
-<div style="display:flex; justify-content:center"><p style="display: inline-block; text-align:center; background-color: black; border-radius: 10px"><a style="margin: 14px; backgound-color: black; color: white; font-size: 24px" href="#embended-form-345">Стать танцором</a></p></div>
+<div style="display:flex; justify-content:center"><p style="display: inline-block; text-align:center; background-color: black; border-radius: 10px"><a style="margin: 14px; backgound-color: black; color: white; font-size: 24px" href="#embended-form-326">Стать танцором</a></p></div>
 
 ## Кто мы?
 
@@ -88,6 +88,8 @@ layout: default
 Сегодня Ильяс в Бишкеке, стань танцором международного уровня вместе с ним.
 
 <img src="/assets/images/IMG_0144.jpeg" alt="" class="landing-image-150-px"  style="object-position: center 54%">
+
+# Мы скоро запустим бесплатные открытые уроки. Оставьте контактные данные, чтобы их не пропустить
 
 <p style="text-align: center;"><iframe class="form-iframe embended-form" style="display:none;" id="embended-form-326" src="https://crm.clients24.pro/tangokana/form?id=326" frameborder="0" scrolling="no" width="100%">Your browser does not support frames</iframe></p>
 <link href="https://crm.clients24.pro/css/form.css" rel="stylesheet">
